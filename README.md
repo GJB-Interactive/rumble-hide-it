@@ -1,4 +1,4 @@
-# Rumble Hide It - Channel Filtering for Rumble
+# (icons/icon-48.png) Rumble Hide It - Channel Filtering for Rumble
 
 Take control of your Rumble viewing experience by hiding channels you don't want to see. This simple extension adds a "Hide Channel" option to every video's menu, allowing you to remove content from specific creators with just one click.
 
