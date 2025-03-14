@@ -1,0 +1,11 @@
+/* Styles for Rumble Hide It extension */
+
+.hide-channel-option .playlist-menu__btn {
+  color: #e44;
+  font-weight: 500;
+}
+
+.hide-channel-option .playlist-menu__btn:hover {
+  color: #f55;
+  background-color: rgba(238, 68, 68, 0.1);
+}
